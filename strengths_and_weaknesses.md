@@ -4,3 +4,4 @@
 
 # Weaknesses
 1. Not too user friendly
+2. Performance problems with large files
